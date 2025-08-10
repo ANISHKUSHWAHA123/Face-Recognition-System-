@@ -35,9 +35,8 @@ face_recognition/
 
 ## 🛠 Installation (Windows)
 1. **Clone this repository**
-```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+git clone https://github.com/ANISHKUSHWAHA123/Face-Recognition-System-.git
+cd Face-Recognition-System-
 
 
 2. **Create and activate virtual environment**
