@@ -1,4 +1,4 @@
-# Face Recognition with InsightFace
+# Face Recognition System
 
 A Python-based face recognition application using [InsightFace](https://github.com/deepinsight/insightface) for detecting and recognizing faces from images or webcam.  
 Includes a Tkinter-based GUI for easy use.
