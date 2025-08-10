@@ -1,0 +1,42 @@
+
+database/
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# Model files (InsightFace downloads)
+.insightface/
+
+# FAISS index files (generated after registering faces)
+*.index
+
+# Registered embeddings or names cache
+names.pkl
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE/project settings
+.vscode/
+.idea/
+
+# Images for testing (optional - keep if you want to share sample images)
+images/
+# If you want to keep only sample images, comment the above and add specific names below
+
+# Logs
+*.log
+
+# Temporary files
+tmp/
+temp/
